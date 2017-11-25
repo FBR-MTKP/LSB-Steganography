@@ -3,7 +3,6 @@ A simple Steganography program to embed and/or extract a message from a sound fi
 
 ###### Language: 
 JES (Jython Enviornment for Students)
-(Python Syntax, Java Platform)
 
 ## Purposes: 
 1. To embed a message in a sound file.
