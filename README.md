@@ -32,4 +32,5 @@ https://github.com/gatech-csl/jes/releases/download/5.020/jes-5.020-windows.exe
 https://github.com/gatech-csl/jes/releases/download/5.020/jes-5.020-macosx.zip
 
 
-
+###### Disclaimer:
+You must download JES and use the IDE in order for this .py file to work.
