@@ -1,5 +1,5 @@
 # Steganography
-A simple Steganography program to embed and/or extract a hidden message from a sound file (.WAV)
+A simple Steganography program to embed and/or extract a hidden message to/from a sound file (.WAV)
 
 ###### Language: 
 JES (Jython Enviornment for Students)
