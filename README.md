@@ -1,8 +1,11 @@
 # Steganography
 A simple Steganography program to embed and/or extract a message from a sound file (.WAV)
-###### Created By: Ashour Dankha
-###### Title of Program: Steganography
-###### Language: JES (Jython Enviornment for Students)
+###### Created By: 
+Ashour Dankha
+###### Title of Program: 
+Steganography
+###### Language: 
+JES (Jython Enviornment for Students)
 
 ## Purposes: 
 1. To embed a message in a sound file.
