@@ -17,6 +17,7 @@ Since an ASCII character is 0-127, we smoothe the last 7 bits.
 We smoothe by using modulos operation.
 
 ###### Before embedding a message:
+![alt text](https://i.imgur.com/FZMyTrz.png)
 ![alt text](https://i.imgur.com/1oSwT3B.png)
 
 ###### For extracting a message from a sound file:
