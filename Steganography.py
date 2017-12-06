@@ -83,7 +83,7 @@ def extractMessage(soundObject):
   for i in range(sLength):
     ampValue = getSampleValue(samplesList[i])
     charAscii = ampValue % 128
-    if charAscii is 0, then we've reached a smoothed value so our message is complete.
+    # if charAscii is 0, then we've reached a smoothed value so our message is complete.
     if charAscii == 0:
       break
     letter = chr(charAscii)
